@@ -1,0 +1,1 @@
+ cout<<sales[i].first<<" "<<sales[i].second.first<<" "<<sales[i].second.second<<endl;
